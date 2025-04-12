@@ -1,2 +1,4 @@
-# EstudiosCertificadoGoogle-Autom-Python
-Tareas realizadas en el Certificado de Google de Aumatización con Python
+# Certificado-Automatizacion-Python
+Cuadernos de seguimiento para el segundo certificado de Google
+Repaso por encima el dia 14 de noviembre de 2022.
+Pendiente de terminar repaso.
